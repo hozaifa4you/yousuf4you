@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Shelll
 - 💞️ I’m looking to collaborate on Full Stack Web Development.
 - 📫 How to reach me yousuf360.ya@gmail.com
+- 📫 How to reach me hozaifa4you@gmail.com 
+- 📫 How to reach me hozaifabinmasud@gmail.com
 
 <!---
 yousuf4you/yousuf4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
