@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hozaifa Bin Masud
 - 👀 I’m interested in JavaScript, Nodejs, ReactJs, NextJs, Prisma, MySQL, PostgresSQL, ReduxJs, ReactQuery, MongoDB, shell etc.
-- 🌱 I’m currently learning Shelll
+- 🌱 I’m currently Working on NextJs, NodeJs and BunJs.
 - 💞️ I’m looking to collaborate on Full Stack Web Development.
 - 📫 How to reach me yousuf360.ya@gmail.com
 - 📫 How to reach me hozaifa4you@gmail.com 
