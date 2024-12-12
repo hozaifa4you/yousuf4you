@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various a
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hozaifa4you&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 ## Connect with me
 
