@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various a
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=nodejs,reactjs,nextjs,mysql,mongodb,javascript,html,css,sass)
 
 ## Connect with me
 
